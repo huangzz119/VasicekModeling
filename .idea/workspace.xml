@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d50eaba-bed1-4386-8553-c5560a84ca70" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$GL_Saddlepoint.coverage" NAME="GL-Saddlepoint Coverage Results" MODIFIED="1550307514050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$Saddlepoint_Getting.coverage" NAME="Saddlepoint_Getting Coverage Results" MODIFIED="1550473047937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$CI.coverage" NAME="CI Coverage Results" MODIFIED="1552817671315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$MC_example__1_.coverage" NAME="MC_example (1) Coverage Results" MODIFIED="1549719874677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$draft.coverage" NAME="draft Coverage Results" MODIFIED="1552805120884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$MC_again.coverage" NAME="MC_again Coverage Results" MODIFIED="1556862165346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$MCforVasicek.coverage" NAME="MCforVasicek Coverage Results" MODIFIED="1549332469055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$Saddlepoint_Searching.coverage" NAME="Saddlepoint_Searching Coverage Results" MODIFIED="1550474731634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$combine_three_method.coverage" NAME="combine_three_method Coverage Results" MODIFIED="1550573091235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MonteCarloVasicek$First_Derivative_Plotting.coverage" NAME="First_Derivative_Plotting Coverage Results" MODIFIED="1553324690364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CreditRisk/CreditRisk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nsim \= 40000\nsim_part \= 1000\nnloop \= int\(nsim\/sim_part\)</find>
+      <find>alpha</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/MC_example.py" />
+        <option value="$USER_HOME$/Intership-Project/slope_intercept_acquire.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/Saddlepoint_Searching.py" />
+        <option value="$PROJECT_DIR$/venv/Saddlepoint-Getting.py" />
+        <option value="$PROJECT_DIR$/Saddlepoint_Plotting.py" />
+        <option value="$PROJECT_DIR$/Saddlepoint_Getting.py" />
+        <option value="$PROJECT_DIR$/GL-Saddlepoint.py" />
+        <option value="$PROJECT_DIR$/Saddlepoint_Method_Plot.py" />
+        <option value="$PROJECT_DIR$/MC_Method_plot.py" />
+        <option value="$PROJECT_DIR$/MC_interval_plot.py" />
+        <option value="$PROJECT_DIR$/Saddlepoint_Method_plot.py" />
+        <option value="$PROJECT_DIR$/Fixed-Income_HW1.py" />
+        <option value="$PROJECT_DIR$/CI.py" />
+        <option value="$PROJECT_DIR$/Vesicek_Method_plot.py" />
+        <option value="$PROJECT_DIR$/MC_Interval_plot.py" />
+        <option value="$PROJECT_DIR$/MCInterval.py" />
+        <option value="$PROJECT_DIR$/combine_three_method.py" />
+        <option value="$PROJECT_DIR$/../../new/Saddlepoint_Method_plot.py" />
+        <option value="$PROJECT_DIR$/draft_sdpoint.py" />
+        <option value="$PROJECT_DIR$/First_Derivative_Plotting.py" />
+        <option value="$PROJECT_DIR$/../../Internship-Project/trendlineplotlib/dynamic_plotting/new_detect.py" />
+        <option value="$PROJECT_DIR$/comp_assignment.py" />
+        <option value="$PROJECT_DIR$/retry_plot.py" />
+        <option value="$PROJECT_DIR$/GL-quad.csv" />
+        <option value="$PROJECT_DIR$/new_sp_reverify.py" />
+        <option value="$PROJECT_DIR$/HW4.py" />
+        <option value="$PROJECT_DIR$/../../tree.py" />
+        <option value="$PROJECT_DIR$/../../tree4.py" />
+        <option value="$PROJECT_DIR$/treehaha.py" />
+        <option value="$PROJECT_DIR$/../../tree2.py" />
+        <option value="$PROJECT_DIR$/MC_again.py" />
+        <option value="$PROJECT_DIR$/KNN_algorithm.py" />
+        <option value="$PROJECT_DIR$/Plot_Three_Methods.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/CI_example.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/MC_Interval_plot.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/MC_again.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/MC0503.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/IPMC_VAR_ES.py" />
+        <option value="$PROJECT_DIR$/plot.py" />
+        <option value="$PROJECT_DIR$/plot_function.py" />
+        <option value="$PROJECT_DIR$/new_version.py" />
+        <option value="$PROJECT_DIR$/plot_example/plot4.py" />
+        <option value="$PROJECT_DIR$/plot_example/plot1.py" />
+        <option value="$PROJECT_DIR$/plot_example/plot3.py" />
+        <option value="$PROJECT_DIR$/MonteCarlo_package/MC_VAR_ES.py" />
+        <option value="$PROJECT_DIR$/plot_example/plot_function.py" />
+        <option value="$PROJECT_DIR$/hw6.py" />
+        <option value="$PROJECT_DIR$/plot_example/plot2.py" />
+        <option value="$PROJECT_DIR$/saddlepoint_package/implied_var_0503.py" />
+        <option value="$PROJECT_DIR$/draft.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="33" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RiskModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiskModel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiskModel" type="462c0819:PsiDirectoryNode" />
+              <item name="CreditRisk" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="l_perc_all&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/saddlepoint_package" />
+      <recent name="$PROJECT_DIR$/../.." />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/plot_example" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/saddlepoint_package" />
+      <recent name="$PROJECT_DIR$/MonteCarlo_package" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plot2">
+    <configuration name="MC_VAR_ES" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MonteCarloVasicek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MonteCarlo_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MonteCarlo_package/MC_VAR_ES.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="implied_var_0503" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MonteCarloVasicek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/saddlepoint_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saddlepoint_package/implied_var_0503.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MonteCarloVasicek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_example/plot1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MonteCarloVasicek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_example/plot2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MonteCarloVasicek" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_example/plot3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.plot1" />
+      <item itemvalue="Python.plot3" />
+      <item itemvalue="Python.plot2" />
+      <item itemvalue="Python.MC_VAR_ES" />
+      <item itemvalue="Python.implied_var_0503" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plot2" />
+        <item itemvalue="Python.implied_var_0503" />
+        <item itemvalue="Python.implied_var_0503" />
+        <item itemvalue="Python.implied_var_0503" />
+        <item itemvalue="Python.implied_var_0503" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d50eaba-bed1-4386-8553-c5560a84ca70" name="Default Changelist" comment="" />
+      <created>1547369595771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547369595771</updated>
+      <workItem from="1552816757766" duration="6311000" />
+      <workItem from="1552910518236" duration="3266000" />
+      <workItem from="1553155240189" duration="13788000" />
+      <workItem from="1553307560570" duration="1573000" />
+      <workItem from="1553312181612" duration="14171000" />
+      <workItem from="1553351774623" duration="1478000" />
+      <workItem from="1553353427610" duration="4230000" />
+      <workItem from="1553600266516" duration="1806000" />
+      <workItem from="1554120143389" duration="7546000" />
+      <workItem from="1555161478646" duration="1128000" />
+      <workItem from="1555422826805" duration="659000" />
+      <workItem from="1555563989924" duration="19000" />
+      <workItem from="1555662874116" duration="55638000" />
+      <workItem from="1556262480253" duration="21841000" />
+      <workItem from="1556513938969" duration="224000" />
+      <workItem from="1556541388386" duration="12677000" />
+      <workItem from="1556858822776" duration="32134000" />
+      <workItem from="1557284458513" duration="7184000" />
+      <workItem from="1557391114934" duration="4212000" />
+      <workItem from="1557812085466" duration="469000" />
+      <workItem from="1557824605308" duration="5626000" />
+      <workItem from="1564648569829" duration="234000" />
+      <workItem from="1564649594887" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="197311000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="23" width="1396" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118906945" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4192771" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.19879518" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.18598726" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32891566" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.24741507" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saddlepoint_package/First_Derivative_Plotting.py</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/saddlepoint_package/implied_var_0503.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Intership-Project/trendline_project/slope_intercept_acquire.py" />
+    <entry file="file://$PROJECT_DIR$/GL-Saddlepoint.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/file_save_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Intership-Project/trendline_project/high_low_point_for_intranet.py" />
+    <entry file="file://$PROJECT_DIR$/Fixed-Income_HW1.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/examp1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internship-Project/trendlineplotlib/plotting_library/multi_plot_trendline.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internship-Project/trendlineplotlib/plotting_library/single_plot_channelline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MCInterval.py" />
+    <entry file="file://$PROJECT_DIR$/Vesicek_Method_plot.py" />
+    <entry file="file://$PROJECT_DIR$/Saddlepoint_Method_plot.py" />
+    <entry file="file://$PROJECT_DIR$/../../new/Saddlepoint_Method_plot.py" />
+    <entry file="file://$PROJECT_DIR$/../../Internship-Project/trendlineplotlib/dynamic_plotting/dynamic_lines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Internship-Project/trendlineplotlib/dynamic_plotting/break_out_detect.py" />
+    <entry file="file://$PROJECT_DIR$/../../tree.py" />
+    <entry file="file://$PROJECT_DIR$/../../tree2.py" />
+    <entry file="file://$PROJECT_DIR$/../../tree4.py" />
+    <entry file="file://$PROJECT_DIR$/KNN_algorithm.py" />
+    <entry file="file://$PROJECT_DIR$/HW4.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/2122325514/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="4895" column="8" selection-start-line="4895" selection-start-column="8" selection-end-line="4895" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treehaha.py" />
+    <entry file="file://$PROJECT_DIR$/Plot for Example 1.png" />
+    <entry file="file://$PROJECT_DIR$/comp_assignment.py" />
+    <entry file="file://$PROJECT_DIR$/First_Deriv_Plot_for Example 2.png" />
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/CI_example.py" />
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/MC0503.py" />
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/MC_Interval_plot.py" />
+    <entry file="file://$PROJECT_DIR$/plot_example/GL-quad.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/MC_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/IPMC_VAR_ES.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_example/plot1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" selection-start-line="16" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#1083#2039#0" />
+            <element signature="e#2124#3892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saddlepoint_package/draft_sdpoint.py" />
+    <entry file="file://$PROJECT_DIR$/saddlepoint_package/sp_0503.py" />
+    <entry file="file://$PROJECT_DIR$/plot_example/plot3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="166" column="10" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+          <folding>
+            <element signature="e#1083#2039#0" />
+            <element signature="e#2124#3892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plot_Three_Methods.py" />
+    <entry file="file://$PROJECT_DIR$/new_version.py" />
+    <entry file="file://$PROJECT_DIR$/saddlepoint_package/First_Derivative_Plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CreditRisk.py" />
+    <entry file="file://$PROJECT_DIR$/../../MSc-year1-2/FixIncome/HW/FI-HW4/HW4.py" />
+    <entry file="file://$PROJECT_DIR$/GL-quad.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_example/plot2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saddlepoint_package/implied_var_0503.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="29" column="30" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/draft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/three_method_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="72" column="27" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_example/plot_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_example/plot4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="13" selection-start-line="7" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#1163#2119#0" />
+            <element signature="e#2204#3972#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saddlepoint_package/GL-quad.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonteCarlo_package/MC_VAR_ES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" selection-start-line="4" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#258#1041#0" />
+            <element signature="e#1107#2477#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CreditRisk/CreditRisk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
